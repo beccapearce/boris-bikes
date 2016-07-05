@@ -7,9 +7,9 @@ Boris bikes are public bicycles available for rent at designated stations across
 
 -----------------------Testing Area-------------------------
 
-Step 1. README.md
+**Step 1. README.md**
 
-Step 2. User Story into a Domain Model
+**Step 2. User Story into a Domain Model**
 
 |Objects        | Messages    |
 |---------------|:-----------:|
@@ -23,7 +23,7 @@ Step 2. User Story into a Domain Model
 
 ```Person``` → ```Bike``` → ```docking_station_with_bike``` → ```find_working_bike```
 
-Step 3. Domain Model for a feature
+**Step 3. Domain Model for a feature**
 
 Define 'Feature Test'```
 
@@ -34,7 +34,7 @@ Feature Testing, changes to new functionality or significantly modifies function
 stack trace provides map of functionality
 
 
-Step 4. Errors Are Good
+**Step 4. Errors Are Good**
 
 ```Error Message```
 
@@ -62,4 +62,4 @@ uninitialized constant DockingStation == Referred to a class or module that does
 
 Make DockingStation a Class or Module in a file located within current directory.
 
-Step 5. 
+**Step 5.**

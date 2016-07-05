@@ -4,6 +4,6 @@ Boris bikes are public bicycles available for rent at designated stations across
 
 ```Boris Bikes```
 
-+--------+---------+
-|Objects | Messages|
-+--------+---------+
+|Objects | Messages  |
+|--------|:---------:|
+|        |           |

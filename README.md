@@ -16,3 +16,9 @@ Step 2. User Story into a Domain Model
 |Person  |                         |
 |Bike    |docking_station_with_bike|
 |Bike    |find_working_bike        |
+
+```Communication Diagram```
+
+```Primary Object``` → ```Reference Object``` → ```Message```
+
+```Person``` → ```Bike``` → ```docking_station_with_bike``` → ```find_working_bike```

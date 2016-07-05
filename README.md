@@ -69,3 +69,7 @@ Require, describe, spec and ruby files created.
 **Step 6.**
 
 Rspec running and passing, no error
+
+**Step 7.**
+
+release_bike will return NameError due to no release_bike method within DockingStation class (Object's message is not called)

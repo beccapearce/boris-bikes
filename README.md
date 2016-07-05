@@ -62,8 +62,10 @@ uninitialized constant DockingStation == Referred to a class or module that does
 
 Make DockingStation a Class or Module in a file located within current directory.
 
-**Step 5.**
+**Step 5. Rspec**
 
 Require, describe, spec and ruby files created.
 
 **Step 6.**
+
+Rspec running and passing, no error

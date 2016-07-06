@@ -1,8 +1,10 @@
 require_relative 'bike'
-#require './lib/bike'
+
 class DockingStation
   def release_bike
-      bike = Bike.new
-      #bike.working?
+      @bike = Bike.new
+  end
+  def dock (bike)
+    @bike = bike
   end
 end

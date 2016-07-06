@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # BORIS BIKES
 ## A program to run a system of bike docking stations and simulate all the bikes and emulate the infrastructure includind vans rapair staff etc.
 =======
@@ -18,8 +18,10 @@ Boris bikes are public bicycles available for rent at designated stations across
 |Objects        | Messages    |
 |---------------|:-----------:|
 |Person         |             |
-|Bike           |Working?     |
+|Bike           |working?     |
+|  							|returned			|
 |DockingStation |release_bike |
+|								|dock_bike		|
 
 ```Communication Diagram```
 
@@ -84,6 +86,10 @@ Rspec docking_station.rb testing for release_bike method within DockingStation c
 
 release_bike method with action made.
 
-**Step 9
+**Step 9. **
 
-test
+Completed feature tests
+
+**Step 10. **
+
+Completed feature tests for working?

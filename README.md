@@ -85,4 +85,5 @@ Rspec docking_station.rb testing for release_bike method within DockingStation c
 release_bike method with action made.
 
 **Step 9
->>>>>>> 4c72129441e2cd3e887fc5871a225b9aecbef000
+
+test

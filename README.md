@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# BORIS BIKES
+## A program to run a system of bike docking stations and simulate all the bikes and emulate the infrastructure includind vans rapair staff etc.
+=======
 # boris-bikes
 
 Boris bikes are public bicycles available for rent at designated stations across London for up to 24 hour periods.
@@ -81,3 +85,4 @@ Rspec docking_station.rb testing for release_bike method within DockingStation c
 release_bike method with action made.
 
 **Step 9
+>>>>>>> 4c72129441e2cd3e887fc5871a225b9aecbef000

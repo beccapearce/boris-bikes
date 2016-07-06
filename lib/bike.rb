@@ -1,5 +1,5 @@
 class Bike
   def working?
-    puts "Working"
-  end
+return "working"
+end
 end

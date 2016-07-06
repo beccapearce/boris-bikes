@@ -22,6 +22,7 @@ Boris bikes are public bicycles available for rent at designated stations across
 |  							|returned			|
 |DockingStation |release_bike |
 |								|dock_bike		|
+|								|capacity     |
 
 ```Communication Diagram```
 
@@ -93,3 +94,11 @@ Completed feature tests
 **Step 10. **
 
 Completed feature tests for working?
+
+**Step 11. **
+
+Instantiated bike as an attribute of DockingStation and passed feature and unit tests.
+
+**Step 12. **
+
+Only allowed one bike out at a time. Requires bike to be docked before can be released.
